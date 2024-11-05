@@ -1,0 +1,6 @@
+@JdemeVen.Server_HostAddress = http://localhost:5146
+
+GET {{JdemeVen.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

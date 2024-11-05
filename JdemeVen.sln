@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JdemeVen.Server", "JdemeVen.Server\JdemeVen.Server.csproj", "{03E3903A-AD7D-4BEC-8F05-843A43221E31}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "jdemeven.client", "jdemeven.client\jdemeven.client.esproj", "{A5A46790-6355-40A0-872F-01E1B7FED77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E3903A-AD7D-4BEC-8F05-843A43221E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E3903A-AD7D-4BEC-8F05-843A43221E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E3903A-AD7D-4BEC-8F05-843A43221E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E3903A-AD7D-4BEC-8F05-843A43221E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A46790-6355-40A0-872F-01E1B7FED77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A46790-6355-40A0-872F-01E1B7FED77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A46790-6355-40A0-872F-01E1B7FED77C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A5A46790-6355-40A0-872F-01E1B7FED77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A46790-6355-40A0-872F-01E1B7FED77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A46790-6355-40A0-872F-01E1B7FED77C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1841724D-2FDA-4A4B-A930-0F885A2E3F11}
+	EndGlobalSection
+EndGlobal
